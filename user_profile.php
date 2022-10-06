@@ -313,7 +313,7 @@
 												<img src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/dp.jpg" class="img-responsive" alt=""> </div>
 										</div>
 										<div class="profile-usertitle">
-											<div class="profile-usertitle-name">Kiran Patel </div>
+											<div class="profile-usertitle-name">Marylyne Mutindi </div>
 											<div class="profile-usertitle-job"> Professor </div>
 										</div>
 										<ul class="list-group list-group-unbordered">
@@ -342,14 +342,14 @@
 									</div>
 									<div class="card-body no-padding height-9">
 										<div class="profile-desc">
-											Hello I am Dave Gomache a web and user interface designer. I love to work
+											Hello I am Marylyne Mutindi a web and user interface designer. I love to work
 											with the application interface and
 											the web elements.
 										</div>
 										<ul class="list-group list-group-unbordered">
 											<li class="list-group-item">
 												<b>Gender </b>
-												<div class="profile-desc-item pull-right">Male</div>
+												<div class="profile-desc-item pull-right">Female</div>
 											</li>
 											<li class="list-group-item">
 												<b>Project Done </b>

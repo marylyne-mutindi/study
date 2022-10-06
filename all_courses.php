@@ -296,7 +296,7 @@
 							</div>
 							<ol class="breadcrumb page-breadcrumb pull-right">
 								<li><i class="fa fa-home"></i>&nbsp;<a class="parent-item"
-										href="index.html">Home</a>&nbsp;<i class="fa fa-angle-right"></i>
+										href="index.php">Home</a>&nbsp;<i class="fa fa-angle-right"></i>
 								</li>
 								<li><a class="parent-item" href="#">Courses</a>&nbsp;<i class="fa fa-angle-right"></i>
 								</li>
@@ -317,7 +317,7 @@
 											<div class="thumb-center"><img class="img-responsive" alt="user"
 													src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/course/course1.jpg"></div>
 											<div class="course-box">
-												<h4>PHP Development Course</h4>
+												<h4>HTML Development Course</h4>
 												<div class="text-muted"><span class="m-r-10">April 23</span>
 													<a class="course-likes m-l-10" href="#"><i
 															class="fa fa-heart-o"></i> 654</a>
@@ -342,7 +342,7 @@
 															class="fa fa-heart-o"></i> 654</a>
 												</div>
 												<p><span><i class="ti-alarm-clock"></i> Duration: 6 Months</span></p>
-												<p><span><i class="ti-user"></i> Professor: Jane Doe</span></p>
+												<p><span><i class="ti-user"></i> Professor: Jane Mark</span></p>
 												<p><span><i class="fa fa-graduation-cap"></i> Students: 200+</span></p>
 												<button type="button"
 													class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect m-b-10 btn-info">Read
@@ -355,7 +355,7 @@
 											<div class="thumb-center"><img class="img-responsive" alt="user"
 													src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/course/course3.jpg"></div>
 											<div class="course-box">
-												<h4>PHP Development Course</h4>
+												<h4>Ruby Development Course</h4>
 												<div class="text-muted"><span class="m-r-10">April 23</span>
 													<a class="course-likes m-l-10" href="#"><i
 															class="fa fa-heart-o"></i> 654</a>
@@ -374,7 +374,7 @@
 											<div class="thumb-center"><img class="img-responsive" alt="user"
 													src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/course/course4.jpg"></div>
 											<div class="course-box">
-												<h4>PHP Development Course</h4>
+												<h4>SQL Development Course</h4>
 												<div class="text-muted"><span class="m-r-10">April 23</span>
 													<a class="course-likes m-l-10" href="#"><i
 															class="fa fa-heart-o"></i> 654</a>
@@ -393,7 +393,7 @@
 											<div class="thumb-center"><img class="img-responsive" alt="user"
 													src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/course/course1.jpg"></div>
 											<div class="course-box">
-												<h4>PHP Development Course</h4>
+												<h4>Python Development Course</h4>
 												<div class="text-muted"><span class="m-r-10">April 23</span>
 													<a class="course-likes m-l-10" href="#"><i
 															class="fa fa-heart-o"></i> 654</a>
@@ -412,7 +412,7 @@
 											<div class="thumb-center"><img class="img-responsive" alt="user"
 													src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/course/course2.jpg"></div>
 											<div class="course-box">
-												<h4>PHP Development Course</h4>
+												<h4>Django  Development Course</h4>
 												<div class="text-muted"><span class="m-r-10">April 23</span>
 													<a class="course-likes m-l-10" href="#"><i
 															class="fa fa-heart-o"></i> 654</a>
@@ -431,7 +431,7 @@
 											<div class="thumb-center"><img class="img-responsive" alt="user"
 													src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/course/course3.jpg"></div>
 											<div class="course-box">
-												<h4>PHP Development Course</h4>
+												<h4>Kotlin Development Course</h4>
 												<div class="text-muted"><span class="m-r-10">April 23</span>
 													<a class="course-likes m-l-10" href="#"><i
 															class="fa fa-heart-o"></i> 654</a>
@@ -450,7 +450,7 @@
 											<div class="thumb-center"><img class="img-responsive" alt="user"
 													src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/course/course4.jpg"></div>
 											<div class="course-box">
-												<h4>PHP Development Course</h4>
+												<h4>Flutter Development Course</h4>
 												<div class="text-muted"><span class="m-r-10">April 23</span>
 													<a class="course-likes m-l-10" href="#"><i
 															class="fa fa-heart-o"></i> 654</a>
@@ -469,7 +469,7 @@
 											<div class="thumb-center"><img class="img-responsive" alt="user"
 													src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/course/course1.jpg"></div>
 											<div class="course-box">
-												<h4>PHP Development Course</h4>
+												<h4>Go Development Course</h4>
 												<div class="text-muted"><span class="m-r-10">April 23</span>
 													<a class="course-likes m-l-10" href="#"><i
 															class="fa fa-heart-o"></i> 654</a>
@@ -488,7 +488,7 @@
 											<div class="thumb-center"><img class="img-responsive" alt="user"
 													src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/course/course2.jpg"></div>
 											<div class="course-box">
-												<h4>PHP Development Course</h4>
+												<h4>CSS Development Course</h4>
 												<div class="text-muted"><span class="m-r-10">April 23</span>
 													<a class="course-likes m-l-10" href="#"><i
 															class="fa fa-heart-o"></i> 654</a>
@@ -507,7 +507,7 @@
 											<div class="thumb-center"><img class="img-responsive" alt="user"
 													src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/course/course3.jpg"></div>
 											<div class="course-box">
-												<h4>PHP Development Course</h4>
+												<h4>Django Development Course</h4>
 												<div class="text-muted"><span class="m-r-10">April 23</span>
 													<a class="course-likes m-l-10" href="#"><i
 															class="fa fa-heart-o"></i> 654</a>
@@ -526,7 +526,7 @@
 											<div class="thumb-center"><img class="img-responsive" alt="user"
 													src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/course/course4.jpg"></div>
 											<div class="course-box">
-												<h4>PHP Development Course</h4>
+												<h4>Python Development Course</h4>
 												<div class="text-muted"><span class="m-r-10">April 23</span>
 													<a class="course-likes m-l-10" href="#"><i
 															class="fa fa-heart-o"></i> 654</a>

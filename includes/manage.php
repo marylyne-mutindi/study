@@ -21,12 +21,12 @@
 								</li>
 								<li class="divider"> </li>
 								<li>
-									<a href="lock_screen.html">
+									<a href="lock_screen.php">
 										<i class="icon-lock"></i> Lock
 									</a>
 								</li>
 								<li>
-									<a href="login.html">
+									<a href="login.php">
 										<i class="icon-logout"></i> Log Out </a>
 								</li>
 							</ul>
