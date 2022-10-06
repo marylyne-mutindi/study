@@ -2,7 +2,6 @@
 <html>
 
 
-<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/dark/page-500.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 03 Oct 2022 08:34:56 GMT -->
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -55,5 +54,4 @@
 </body>
 
 
-<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/dark/page-500.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 03 Oct 2022 08:34:56 GMT -->
 </html>
