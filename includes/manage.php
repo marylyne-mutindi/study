@@ -6,7 +6,7 @@
 							</a>
 							<ul class="dropdown-menu dropdown-menu-default">
 								<li>
-									<a href="user_profile.html">
+									<a href="user_profile.php">
 										<i class="icon-user"></i> Profile </a>
 								</li>
 								<li>
