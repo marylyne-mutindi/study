@@ -342,7 +342,7 @@
 														<div class="row">
 															<div class="col-md-6 col-sm-6 col-6">
 																<div class="btn-group">
-																	<a href="add_professor.html" id="addRow"
+																	<a href="add_professor.php" id="addRow"
 																		class="btn btn-primary">
 																		Add New <i class="fa fa-plus"></i>
 																	</a>
@@ -380,7 +380,7 @@
 																			rajesh@gmail.com </a></td>
 																	<td class="left">22 Feb 2000</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -403,7 +403,7 @@
 																			pooja@gmail.com </a></td>
 																	<td class="left">27 Aug 2005</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -426,7 +426,7 @@
 																			sarah@gmail.com </a></td>
 																	<td class="left">05 Jun 2011</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -449,7 +449,7 @@
 																			john@gmail.com </a></td>
 																	<td class="left">15 Feb 2012</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -472,7 +472,7 @@
 																			kenh@gmail.com </a></td>
 																	<td class="left">12 Nov 2012</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -495,7 +495,7 @@
 																			johnson@gmail.com </a></td>
 																	<td class="left">03 Dec 2001</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -518,7 +518,7 @@
 																			megha@gmail.com </a></td>
 																	<td class="left">17 Mar 2013</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -541,7 +541,7 @@
 																			rajesh@gmail.com </a></td>
 																	<td class="left">22 Feb 2000</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -564,7 +564,7 @@
 																			pooja@gmail.com </a></td>
 																	<td class="left">27 Aug 2005</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -587,7 +587,7 @@
 																			sarah@gmail.com </a></td>
 																	<td class="left">05 Jun 2011</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -610,7 +610,7 @@
 																			john@gmail.com </a></td>
 																	<td class="left">15 Feb 2012</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -633,7 +633,7 @@
 																			kenh@gmail.com </a></td>
 																	<td class="left">12 Nov 2012</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -656,7 +656,7 @@
 																			johnson@gmail.com </a></td>
 																	<td class="left">03 Dec 2001</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -679,7 +679,7 @@
 																			megha@gmail.com </a></td>
 																	<td class="left">17 Mar 2013</td>
 																	<td>
-																		<a href="edit_professor.html"
+																		<a href="edit_professor.php"
 																			class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
@@ -713,7 +713,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -738,7 +738,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -762,7 +762,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -788,7 +788,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php "
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -813,7 +813,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -837,7 +837,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -863,7 +863,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -888,7 +888,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -912,7 +912,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -938,7 +938,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -963,7 +963,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -987,7 +987,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="professor_profile.html"
+																<a href="professor_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>

@@ -8,7 +8,7 @@
 	<meta content="width=device-width, initial-scale=1" name="viewport" />
 	<meta name="description" content="Responsive Admin Template" />
 	<meta name="author" content="RedstarHospital" />
-	<title>Smart University | Bootstrap Responsive Admin Template</title>
+	<title>School_Management</title>
 	<!-- google font -->
 	<link href="../../../../../../fonts.googleapis.com/cssbc32.css?family=Open+Sans:400,300,600,700&amp;subset=all" rel="stylesheet"
 		type="text/css" />
@@ -32,7 +32,7 @@
 				<div class="signin-content">
 					<div class="signin-image">
 						<figure><img src="https://www.einfosoft.com/templates/admin/smart/source/assets/img/pages/signin.jpg" alt="sing up image"></figure>
-						<a href="sign_up.html" class="signup-image-link">Create an account</a>
+						<a href="sign_up.php" class="signup-image-link">Create an account</a>
 					</div>
 					<div class="signin-form">
 						<h2 class="form-title">Login</h2>

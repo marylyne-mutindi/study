@@ -371,7 +371,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">22 Feb 2000</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -392,7 +392,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">27 Aug 2005</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -413,7 +413,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">05 Jun 2011</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -434,7 +434,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">15 Feb 2012</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -455,7 +455,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">12 Nov 2012</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -476,7 +476,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">03 Dec 2001</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -497,7 +497,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">17 Mar 2013</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -518,7 +518,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">22 Feb 2000</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -539,7 +539,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">27 Aug 2005</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -560,7 +560,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">05 Jun 2011</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -581,7 +581,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">03 Dec 2001</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -602,7 +602,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">17 Mar 2013</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -623,7 +623,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">22 Feb 2000</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -644,7 +644,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">27 Aug 2005</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -665,7 +665,7 @@
 																	<td class="center">22,tilak appt. surat</td>
 																	<td class="center">05 Jun 2011</td>
 																	<td>
-																		<a href="edit_staff.html" class="tblEditBtn">
+																		<a href="edit_staff.php" class="tblEditBtn">
 																			<i class="fa fa-pencil"></i>
 																		</a>
 																		<a class="tblDelBtn">
@@ -698,7 +698,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -723,7 +723,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -747,7 +747,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -773,7 +773,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -798,7 +798,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -822,7 +822,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -848,7 +848,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -873,7 +873,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -897,7 +897,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -923,7 +923,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -948,7 +948,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
@@ -972,7 +972,7 @@
 																		href="tel:(123)456-7890"> (123)456-7890</a></p>
 															</div>
 															<div class="profile-userbuttons">
-																<a href="staff_profile.html"
+																<a href="staff_profile.php"
 																	class="btn btn-circle deepPink-bgcolor btn-sm">Read
 																	More</a>
 															</div>
