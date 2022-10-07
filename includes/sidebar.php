@@ -312,7 +312,7 @@
 						
 							
 							
-						
+			
 							<li class="nav-item">
 								<a href="javascript:;" class="nav-link nav-toggle"> <i data-feather="anchor"></i>
 									<span class="title">Extra pages</span>
